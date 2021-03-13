@@ -13,6 +13,8 @@ The kind of token we have used is Non-Fungible tokens (Like Cryptokitties), memo
 Non-fungible tokens (NFTs) are used to create verifiable digital scarcity, as well as representing asset ownership of things like real estate, luxury goods, works of art, or collectible objects in video games (CryptoKitties is an early example). Essentially, NFTs are used for items that require a unique digital fingerprint.</br>
 
 
+## Technologies used
+
 ## Team Members
 Keerti Chaudhary ([@keerti2001](https://github.com/keerti2001)) <br />
 Shumbul Arifa ([@shumbul](https://github.com/shumbul))
