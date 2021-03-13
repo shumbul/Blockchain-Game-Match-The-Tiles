@@ -38,8 +38,10 @@ Non-fungible tokens (NFTs) are used to create verifiable digital scarcity, as we
 5. These cards then disappear.</br>
 6. If the token pairs do not match, a pop-up alert notifies you of this and the cards flip back.</br>
 7. The game continues until you have all the matching pairs of tiles.</br>
-</br>
+
+
 ## Technologies used
+
 **Ethereum / Solidity** </br>
 Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location.  </br>
 Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs that govern the behavior of accounts within the Ethereum state. </br>
