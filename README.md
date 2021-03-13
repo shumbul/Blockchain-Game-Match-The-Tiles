@@ -14,6 +14,7 @@ Non-fungible tokens (NFTs) are used to create verifiable digital scarcity, as we
 
 
 ## Technologies used
+** Ethereum **
 
 ## Team Members
 Keerti Chaudhary ([@keerti2001](https://github.com/keerti2001)) <br />
