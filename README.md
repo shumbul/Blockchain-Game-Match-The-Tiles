@@ -5,6 +5,8 @@ This is our submission for SheHack 2021 hackathon
 This is a Blockchain based memory game, where the user is supposed to find matching tiles. As soon as the user finds a match, the user gets to keep it forever of the Blockchain.
 Each tiles is represented by a blockchain token, which can be kept in wallet after getting matched. These tokens can be transfered outside of the game or keep them as collectables. </br>
 
+![Alt text](screenshots/Poster.png?raw=true "Poster")
+
 ## Working
 We have client side website, where the tokens are matched. After which the tiles associated with tokens. These tokens are powered by Ethereum Smart Cotracts, which act as business logic for these tokens.</br>
 These Ethereum Smart Contracts govern the ownership of these tokens. They act as our backend database in our case.</br>
@@ -17,6 +19,7 @@ Non-fungible tokens (NFTs) are used to create verifiable digital scarcity, as we
 **Ethereum / Solidity** </br>
 
 **Ganache**</br>
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 **Truffle**</br>
 
