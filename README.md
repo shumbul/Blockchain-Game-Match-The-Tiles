@@ -14,23 +14,35 @@ Once these tokens are in public, they can be transferred to any other Blockchain
 The kind of token we have used is Non-Fungible tokens (Like Cryptokitties), memory tokens that are collectables that we win by playing this game.</br>
 Non-fungible tokens (NFTs) are used to create verifiable digital scarcity, as well as representing asset ownership of things like real estate, luxury goods, works of art, or collectible objects in video games (CryptoKitties is an early example). Essentially, NFTs are used for items that require a unique digital fingerprint.</br>
 
+<p float="left">
+  <img src="screenshots/1.png" width="300" />
+  <img src="screenshots/2.png" width="300" /> 
+  <img src="screenshots/3.png" width="300" />
+</p>
+
 
 ## Technologies used
 **Ethereum / Solidity** </br>
-Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location. Solidity is an object-oriented, high-level language for implementing smart contracts. </br>
-
 
 **Ganache**</br>
-Ganache is a virtual blockchain that sets up 10 default Ethereum addresses, complete with private keys and all, and pre-loads them with 100 simulated Ether each. </br>
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+<p float="left">
+  <img src="screenshots/ganache.png" width="700" />
+</p>
 
 **Truffle**</br>
 
+<p float="left">
+  <img src="screenshots/trufflemigrate1.png" width="700" />
+</p>
+
 **Metamask**</br>
-MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. MetaMask allows users to store and manage account keys, broadcast transactions, send and receive Ethereum-based cryptocurrencies and tokens, and securely connect to decentralized applications through a compatible web browser or the mobile app's built-in browser. </br>
+
+<p float="left">
+  <img src="screenshots/metamask.png" width="700" />
+</p>
 
 **ReactJs**</br>
-React (also known as React.js or ReactJS) is an open-source, front-end, JavaScript library for building user interfaces or UI components. </br>
+
 
 ## Team Members
 Keerti Chaudhary ([@keerti2001](https://github.com/keerti2001)) <br />
