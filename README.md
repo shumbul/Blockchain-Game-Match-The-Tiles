@@ -23,26 +23,29 @@ Non-fungible tokens (NFTs) are used to create verifiable digital scarcity, as we
 
 ## Technologies used
 **Ethereum / Solidity** </br>
+Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location.  </br>
+Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs that govern the behavior of accounts within the Ethereum state. </br>
 
 **Ganache**</br>
+Ganache is a virtual blockchain that sets up 10 default Ethereum addresses, complete with private keys and all, and pre-loads them with 100 simulated Ether each. </br>
 <p float="left">
   <img src="screenshots/ganache.png" width="700" />
 </p>
 
 **Truffle**</br>
-
+A world-class development environment, testing framework, and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier. </br>
 <p float="left">
   <img src="screenshots/trufflemigrate1.png" width="700" />
 </p>
 
 **Metamask**</br>
-
+MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. MetaMask allows users to store and manage account keys, broadcast transactions, send and receive Ethereum-based cryptocurrencies.</br>
 <p float="left">
   <img src="screenshots/metamask.png" width="700" />
 </p>
 
 **ReactJs**</br>
-
+React (also known as React.js or ReactJS) is an open-source, front-end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies.</br>
 
 ## Team Members
 Keerti Chaudhary ([@keerti2001](https://github.com/keerti2001)) <br />
