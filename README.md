@@ -2,8 +2,15 @@
 
 This is our submission for SheHack 2021 hackathon
 ## Match The Tiles
-This is a Blockchain based memory game, where the user is supposed to find matching tiles. As soon as the user finds a match, the user gets to keep it forever of the Blockchain.</br>
+This is a Blockchain based memory game, where the user is supposed to find matching tiles. As soon as the user finds a match, the user gets to keep it forever of the Blockchain.
 Each tiles is represented by a blockchain token, which can be kept in wallet after getting matched. These tokens can be transfered outside of the game or keep them as collectables. </br>
+
+## Working
+We have client side website, where the tokens are matched. After which the tiles associated with tokens. These tokens are powered by Ethereum Smart Cotracts, which act as business logic for these tokens.</br>
+These Ethereum Smart Contracts govern the ownership of these tokens. They act as our backend database in our case.</br>
+Once these tokens are in public, they can be transferred to any other Blockchain wallet or sold.</br>
+The kind of token we have used is Non-Fungible tokens (Like Cryptokitties), memory tokens that are collectables that we win by playing this game.</br>
+Non-fungible tokens (NFTs) are used to create verifiable digital scarcity, as well as representing asset ownership of things like real estate, luxury goods, works of art, or collectible objects in video games (CryptoKitties is an early example). Essentially, NFTs are used for items that require a unique digital fingerprint.</br>
 
 
 ## Team Members
