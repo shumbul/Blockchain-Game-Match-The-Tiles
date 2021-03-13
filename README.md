@@ -17,16 +17,20 @@ Non-fungible tokens (NFTs) are used to create verifiable digital scarcity, as we
 
 ## Technologies used
 **Ethereum / Solidity** </br>
+Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location. Solidity is an object-oriented, high-level language for implementing smart contracts. </br>
+
 
 **Ganache**</br>
+Ganache is a virtual blockchain that sets up 10 default Ethereum addresses, complete with private keys and all, and pre-loads them with 100 simulated Ether each. </br>
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 **Truffle**</br>
 
 **Metamask**</br>
+MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. MetaMask allows users to store and manage account keys, broadcast transactions, send and receive Ethereum-based cryptocurrencies and tokens, and securely connect to decentralized applications through a compatible web browser or the mobile app's built-in browser. </br>
 
 **ReactJs**</br>
-
+React (also known as React.js or ReactJS) is an open-source, front-end, JavaScript library for building user interfaces or UI components. </br>
 
 ## Team Members
 Keerti Chaudhary ([@keerti2001](https://github.com/keerti2001)) <br />
