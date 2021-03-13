@@ -1,8 +1,12 @@
 # Shehacks_Team-003
 
 This is our submission for SheHack 2021 hackathon
-## Team Members
+## Match The Tiles
+This is a Blockchain based memory game, where the user is supposed to find matching tiles. As soon as the user finds a match, the user gets to keep it forever of the Blockchain.</br>
+Each tiles is represented by a blockchain token, which can be kept in wallet after getting matched. These tokens can be transfered outside of the game or keep them as collectables. </br>
 
+
+## Team Members
 Keerti Chaudhary ([@keerti2001](https://github.com/keerti2001)) <br />
 Shumbul Arifa ([@shumbul](https://github.com/shumbul))
 
